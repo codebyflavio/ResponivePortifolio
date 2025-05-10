@@ -34,7 +34,7 @@ This project is part of my continuous learning process in front-end development.
 ## 📬 Contact
 
 - GitHub: [@codebyflavio](https://github.com/codebyflavio)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/flavio-rodrigues-de-freitas-905518228/)
 
 ---
 
