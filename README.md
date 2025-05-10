@@ -17,7 +17,7 @@ The main goals of this project are:
 - Apply modern and accessible design concepts.
 - Strengthen my knowledge in HTML and CSS.
 
-## 📸 Preview
+## 📸 
 
 ![Portfolio Screenshot](image.png)
 
